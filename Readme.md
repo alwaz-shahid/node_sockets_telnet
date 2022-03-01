@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwaz SHhaid</h1>
+<h1 align="center">Hi 👋, I'm Alwaz Shahid</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaz18&label=Profile%20views&color=0e75b6&style=flat" alt="alwaz18" /> </p>
